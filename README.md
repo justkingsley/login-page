@@ -12,3 +12,7 @@ Creating a log in page in flutter
 - playing around with edge insets
 - ways of wrapping properties
 - learned to use google fonts
+
+## Screenshots
+
+![login page screen shot](https://github.com/justkingsley/login-page/blob/main/assets/screenshot.png)
