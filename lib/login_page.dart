@@ -19,12 +19,22 @@ class _LoginPageState extends State<LoginPage> {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
+              //Icon Logo
+
+              const CircleAvatar(
+                backgroundImage: NetworkImage('https://cdn.dribbble.com/users/458522/screenshots/16171869/media/0c5b235e80c42db71c2567d8a04625ac.png'),
+                radius: 60.0,
+              ),
+
+              const SizedBox(height: 5.0,),
+
               //greeting text
 
               Text("Sanibonani",
                 style: GoogleFonts.secularOne(
                   fontSize: 42.0,
                   fontWeight: FontWeight.bold,
+                  color: const Color(0xFF2F1500),
                 ),
               ),
 
@@ -94,7 +104,7 @@ class _LoginPageState extends State<LoginPage> {
                     color: const Color(0xFF2F1500),
                   ),
                   child: const Center(
-                      child: Text('Sign in',
+                      child: Text('Log in',
                       style: TextStyle(
                         color: Colors.white,
                         fontWeight: FontWeight.bold,

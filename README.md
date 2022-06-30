@@ -11,4 +11,4 @@ Creating a log in page in flutter
 - styling input field
 - playing around with edge insets
 - ways of wrapping properties
-- 
+- learned to use google fonts
