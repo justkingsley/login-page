@@ -14,7 +14,4 @@ Creating a log in page in flutter
 - learned to use google fonts
 
 ## Screenshots
-
-
-![login page screen shot](https://github.com/justkingsley/login-page/blob/main/assets/screenshot.png)
 <img src="https://github.com/justkingsley/login-page/blob/main/assets/screenshot.png" width="200">
