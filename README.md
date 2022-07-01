@@ -16,4 +16,5 @@ Creating a log in page in flutter
 ## Screenshots
 
 
-[[https://github.com/justkingsley/login-page/blob/main/assets/screenshot.png | width=400px ]]
+![login page screen shot](https://github.com/justkingsley/login-page/blob/main/assets/screenshot.png)
+<img src="https://github.com/justkingsley/login-page/blob/main/assets/screenshot.png" width="200">
